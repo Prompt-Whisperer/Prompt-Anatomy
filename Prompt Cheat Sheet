@@ -1,0 +1,3 @@
+#Prompt Cheat Sheet
+Use delimiters to clearly indicate distinct parts of the prompt
+E.g, ''', """, <>, <tag></tag>
